@@ -16,6 +16,11 @@ const routes = [
     component: () => import( '../views/Addresses.vue')
   },
   {
+    path: '/addresses/:address_id?/edit',
+    name: 'address_edit',
+    component: () => import( '../views/AddressForm.vue')
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting

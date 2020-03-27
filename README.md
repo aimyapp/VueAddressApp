@@ -1,4 +1,4 @@
-# sample-app
+# MyAddressesApp
 
 ## Project setup
 ```

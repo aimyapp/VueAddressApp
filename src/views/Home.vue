@@ -3,7 +3,7 @@
     <v-layout row wrap>
       <v-flex xs12>
         <h1>マイアドレス帳</h1>
-        <p>マイアドレス帳をご利用の方は、Googleアカウントでログインしてください。</p>
+        <p>マイアドレス帳をご利用の方は、Googleアカウントでログインしてんご。</p>
       </v-flex>
 
       <v-flex xs12 mt-5>

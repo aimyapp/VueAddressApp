@@ -1,4 +1,4 @@
-# MYアドレス帳んご
+# MYアドレス帳
 (https://my-address-pj-b0dbc.firebaseapp.com/)
 
 ## Project setup
